@@ -1,0 +1,55 @@
+{
+  "hash": "60185bd0",
+  "configHash": "0ee731db",
+  "lockfileHash": "e02988ac",
+  "browserHash": "0457dbc7",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "eb6725e8",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "048a0f28",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../../../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e6c65650",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../../../../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "6c4a02a0",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../../../../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "7d3c07f9",
+      "needsInterop": true
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "d9b72aba",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-R33EICLF": {
+      "file": "chunk-R33EICLF.js"
+    },
+    "chunk-5QPZ535Z": {
+      "file": "chunk-5QPZ535Z.js"
+    },
+    "chunk-75NUGXPU": {
+      "file": "chunk-75NUGXPU.js"
+    }
+  }
+}
